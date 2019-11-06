@@ -97,12 +97,12 @@ All pre-trained models are made available as TF Hub modules in the `gs://s4l-mod
 | Supervised      |   v3-8   | 80.43 | 80.42 | 56.36 |
 | S4L-Rotation    |   v3-32  | 83.82 | 83.85 | 61.37 |
 | S4L-Exemplar    |   v3-32  | 83.72 | 83.71 | 62.17 |
-| Pseudo-labels   |   v3-8   | 82.41 | 82.86 | 60.24  |
+| Pseudo-labels   |   v3-8   | 82.41 | 82.86 | 60.24 |
 | VAT             |   v3-32  | 82.78 | 82.71 | 59.98 |
 | VAT + EntMin    |   v3-32  | 83.39 | 83.28 | 60.87 |
-| MOAM Step 1     |   v3-32  | 88.80 | TODO  | TODO  |
-| MOAM Step 2     |   v3-32  | 89.96 | TODO  | TODO  |
-| MOAM Step 3     |   v3-32  | 91.23 | TODO  | TODO  |
+| MOAM Step 1     |   v3-128 | 88.80 | 88.70 | 69.46 |
+| MOAM Step 2     |   v3-128 | 89.96 | TODO  | TODO  |
+| MOAM Step 3     |   v3-128 | 91.23 | TODO  | TODO  |
 
 ## Authors
 

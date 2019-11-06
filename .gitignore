@@ -1,0 +1,8 @@
+*.pyc
+venv2
+*.egg-info
+*~
+\#*\#
+*.swp
+venv
+
